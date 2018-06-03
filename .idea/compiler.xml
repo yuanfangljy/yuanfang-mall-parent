@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yuanfang-mall-api-member" />
+        <module name="yuanfang-mall-common" />
+        <module name="yuanfang-mall-euerkaserver" />
+        <module name="yuanfang-mall-member" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yuanfang-mall-api" target="1.7" />
+      <module name="yuanfang-mall-api-member" target="1.7" />
+      <module name="yuanfang-mall-common" target="1.7" />
+      <module name="yuanfang-mall-euerkaserver" target="1.7" />
+      <module name="yuanfang-mall-member" target="1.7" />
+      <module name="yuanfang-mall-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

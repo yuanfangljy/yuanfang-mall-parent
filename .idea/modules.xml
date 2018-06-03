@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yuanfang-mall-api/yuanfang-mall-api.iml" filepath="$PROJECT_DIR$/yuanfang-mall-api/yuanfang-mall-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanfang-mall-api/yuanfang-mall-api-member/yuanfang-mall-api-member.iml" filepath="$PROJECT_DIR$/yuanfang-mall-api/yuanfang-mall-api-member/yuanfang-mall-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanfang-mall-common/yuanfang-mall-common.iml" filepath="$PROJECT_DIR$/yuanfang-mall-common/yuanfang-mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanfang-mall-euerkaserver/yuanfang-mall-euerkaserver.iml" filepath="$PROJECT_DIR$/yuanfang-mall-euerkaserver/yuanfang-mall-euerkaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanfang-mall-member/yuanfang-mall-member.iml" filepath="$PROJECT_DIR$/yuanfang-mall-member/yuanfang-mall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanfang-mall-parent.iml" filepath="$PROJECT_DIR$/yuanfang-mall-parent.iml" />
+    </modules>
+  </component>
+</project>

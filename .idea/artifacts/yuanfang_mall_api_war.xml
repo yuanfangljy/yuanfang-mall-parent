@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yuanfang-mall-api:war">
+    <output-path>$PROJECT_DIR$/yuanfang-mall-api/target</output-path>
+    <root id="archive" name="yuanfang-mall-api.war">
+      <element id="artifact" artifact-name="yuanfang-mall-api:war exploded" />
+    </root>
+  </artifact>
+</component>
